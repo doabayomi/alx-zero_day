@@ -1,1 +1,1 @@
-My first readme
+Mr money no dey waste time
