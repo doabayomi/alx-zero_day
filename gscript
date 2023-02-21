@@ -1,0 +1,17 @@
+.\" Manpage for gscript.
+.\" Contact doabayomi to correct errors or typos.
+.TH man 1 "20 February 2023" "1.0" "gscript man page"
+.SH NAME
+gscript \- Allows one to add, commit and push changes in git all in one command
+.SH SYNOPSIS
+gscript
+.SH DESCRIPTION
+gscript is high level shell program for working with git. Basically you must have git installed on your server linked to a Github account to work.
+.SH OPTIONS
+The gscript does not take any options.
+.SH SEE ALSO
+gclone
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Daniel Abayomi (daniel.abayomi@yandex.com)
